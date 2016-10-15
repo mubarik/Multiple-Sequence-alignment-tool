@@ -1,0 +1,2 @@
+# Multiple-Sequence-alignment-tool
+The objective of multiple sequence alignment is to align more than 2 protein sequences by inserting gaps in it and find maximum similarity in the sequences. It is required to characterize the protein families and to find the consensus sequences of more than two aligned sequences. Finger print of the sequence can be developed by using this consensus sequence . Finger prints allow us to identify distantly related protein family.
